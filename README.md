@@ -31,3 +31,11 @@ Complete UI with vibrant colors and dark theme is implemented to give modern and
 ![image](https://user-images.githubusercontent.com/96788451/194757311-29c7a7cd-80dd-4609-a9fe-7a291d3eda64.png)
 ![image](https://user-images.githubusercontent.com/96788451/194757326-9a30e17d-b642-4bf7-8a63-61c6adcf75e0.png)
 
+## Recent Edits: 
+- Added the functionality of making a phone call by clicking on the new Dialer Icon
+- Added the functionality of making text messages by clicking on the new Text Icon <br/>
+![image](https://user-images.githubusercontent.com/96788451/198546193-5e6029e9-6070-47c2-a9e7-5e402bac8046.png)
+![image](https://user-images.githubusercontent.com/96788451/198546256-3f56d42a-fd28-438d-b890-f5279cd5b369.png)
+![image](https://user-images.githubusercontent.com/96788451/198546421-85476f58-2de4-4a78-86bd-c4df530bf3f2.png)
+
+
