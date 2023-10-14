@@ -1,10 +1,10 @@
 # Android-Contacts-App
 ## Contacts App for Android in JAVA with complete integration of database SQLite (Android Studio).
 Functionalities:
-- Add new contact
+- Add new contacts
 - Edit a contact
 - Delete a contact
-- Delete all contact
+- Delete all contacts
 - Search contact
 
 New Contact can save the following items:
